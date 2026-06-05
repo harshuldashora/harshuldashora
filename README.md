@@ -56,12 +56,7 @@
 - 🏅 Artificial Intelligence — **IIT Kanpur**
 - 🏅 Full Stack Web Development — **Apna College**
 
----
 
-### 📊 GitHub Stats
-
-![Harshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshuldashora&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshuldashora&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
